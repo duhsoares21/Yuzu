@@ -2024,6 +2024,8 @@ gdb ../build/bin/yuzu            # Start GDB
   
 </div>    </div>
 
+##Download
+
 ## License
 
 yuzu is licensed under the GPLv3 (or any later version).
