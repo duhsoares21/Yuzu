@@ -35,7 +35,7 @@ It is written in C++ with portability in mind, and we actively maintain builds f
   <a href="#license">License</a>
 </p>
 
-##Download
+## Download
 
 <a href="https://github.com/duhsoares21/Yuzu/releases/download/Download/yuzu_install.exe"/>Download Yuzu</a>
 
