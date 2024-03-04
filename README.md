@@ -5,7 +5,7 @@ SPDX-License-Identifier: GPL-2.0-or-later
 
 <h1 align="center">
   <br>
-  <a href="https://yuzu-emu.org/"><img src="https://raw.githubusercontent.com/yuzu-emu/yuzu-assets/master/icons/icon.png" alt="yuzu" width="200"></a>
+  <a href="https://yuzu-emu.org/"><img src="https://static-00.iconduck.com/assets.00/yuzu-icon-2048x2048-wm266lvk.png" alt="yuzu" width="200"></a>
   <br>
   <b>yuzu</b>
   <br>
